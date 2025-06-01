@@ -11,7 +11,7 @@
 
 Задание размещено в папке **task** в файле [README.md](task/README.md).
 
-Отчет по практике размещен в папке **Completed** в файле [Practica.pdf](Completed_task/Practica/Practica.pdf)  ИЗМЕНИТЬ!!!!!!!!!!!!!!
+Отчет по практике размещен в папке **Completed** в файле [Practice.pdf](Completed_task/Practice/Practice.pdf)  ИЗМЕНИТЬ!!!!!!!!!!!!!!
 
 ## Основная часть задания
 Сайт создан с помощью HTML и выложен на GitHub Pages. Ссылка для доступа:
