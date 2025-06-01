@@ -17,7 +17,7 @@
 
 ## Основная часть задания
 Сайт создан с помощью HTML и выложен на GitHub Pages. Ссылка для доступа:
-https://dianakwkdj.github.io/Practice-2025-1/
+https://dianakwkdj.github.io/
 
 ## Вариативная часть задания
 
