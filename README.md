@@ -13,6 +13,8 @@
 
 Отчет по практике размещен в папке **Completed** в файле [Practice.pdf](Completed_task/Practice/Practice.pdf)  ИЗМЕНИТЬ!!!!!!!!!!!!!!
 
+Отчет по взаимодействию с партнерами размещен в папке **Completed** в файле [Practica_partners.pdf](Completed_task/Practica_partners/Practica_partners.pdf)
+
 ## Основная часть задания
 Сайт создан с помощью HTML и выложен на GitHub Pages. Ссылка для доступа:
 https://dianakwkdj.github.io/Practice-2025-1/
