@@ -11,9 +11,9 @@
 
 Задание размещено в папке **task** в файле [README.md](task/README.md).
 
-Отчет по практике размещен в папке **Completed** в файле [Practice.pdf](Completed_task/Practice/Practice.pdf)
+Отчет по практике размещен в папке **Completed** в файле [Practice.pdf](Completed_task/Practice/Practice.pdf).
 
-Отчет по взаимодействию с партнерами размещен в папке **Completed** в файле [Practica_partners.pdf](Completed_task/Practica_partners/Practica_partners.pdf)
+Отчет по взаимодействию с партнерами размещен в папке **Completed** в файле [Practica_partners.pdf](Completed_task/Practica_partners/Practica_partners.pdf).
 
 ## Основная часть задания
 Сайт создан с помощью HTML и выложен на GitHub Pages. Ссылка для доступа:
@@ -30,7 +30,7 @@ o	Программирование логики игры на движке Godot
 
 o	Визуализация локаций, персонажей и анимаций. 
 
-Всю необходимую документацию по разработке игры «Басманные хроники» можно найти в папке docs: 
+Всю необходимую документацию по разработке игры «Басманные хроники» можно найти в папке docs: [README.md](docs/README.md).
 
 ## Ответственный по проектной (учебной) практике
 
